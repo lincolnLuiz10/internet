@@ -1,11 +1,31 @@
-.cabecalho {background-color:gray; font-size:24px; width:600px; 
-           padding:10px; text-align:center; margin:2px}
+.cabecalho{
+    background-Color:black;
+    Width:auto;
+    height:100px;
+    Color: white;
+    text-align:center;
+    font-size:50px;   
+    }
+    
+.conteudo{
+    background-Color: white;
+    Width:auto;
+    height:700px;
+    Color:black;
+    text-align:center;
+    font-size:30px;
+    }
 
-.scorpo {margin: 2px; width:600px; 
-        padding:10px;}
+.rodape{
+    background-Color:rgb(0, 0, 0);
+    Width:auto;
+    height:100px;
+    Color: rgb(255, 255, 255);
+    text-align:center;
+    
+}
 
-.corpo {display:flex; width:600px; padding:10px; background-color:red; 
-       font-family:Arial, Helvetica, sans-serif;}
+    h1{
+      color:rgb(0, 0, 0);
 
-.rodape {width:600px; padding:10px; color:blue;
-        text-transform:uppercase;}
+    }
